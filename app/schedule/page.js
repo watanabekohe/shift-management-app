@@ -41,7 +41,7 @@ export default function Schedule() {
 
     return (
         <div className="max-w-3xl mx-auto bg-white shadow-md rounded-md p-6 mt-10">
-            <h1 className="text-2xl font-bold text-gray-800 mb-4">シフト一覧</h1>
+            <h1 className="text-2xl font-bold text-gray-800 mb-4">シフト管理システム 🚀</h1>
 
             {/* シフト表 */}
             <table className="w-full border-collapse border border-gray-300 bg-white text-black">
